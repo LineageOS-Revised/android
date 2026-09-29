@@ -62,6 +62,7 @@
   <project path="vendor/lineage" name="LineageOS-Revised/android_vendor_lineage" />
   <project path="vendor/pixelclocks" name="LineageOS-Revised/android_vendor_pixelclocks" />
   <project path="vendor/custom-preferences" name="LineageOS-Revised/android_vendor_custom-preference" />
+  <project path="vendor/udfpsanimations" name="LineageOS-Revised/android_vendor_udfpsanimations" />
 
   <!-- Legacy AOSP additions -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
